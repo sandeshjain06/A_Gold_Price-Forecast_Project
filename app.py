@@ -25,7 +25,7 @@ def set_bg_hack_url():
          f"""
          <style>
          .stApp {{
-             background: url("images\images 7.jpg");
+             background: url("images 7.jpg");
              background-size: cover
          }}
          </style>
@@ -52,7 +52,7 @@ def set_png_as_page_bg(png_file):
     st.markdown(page_bg_img, unsafe_allow_html=True)
     return
 
-set_png_as_page_bg('images\images 7.jpg')
+set_png_as_page_bg('images 7.jpg')
 
 st.title("Gold Price Forecasting")
 
