@@ -3,7 +3,7 @@
 The objective is to understand the underlying structure in your dataset and come up with a suitable forecasting model which can 
 effectively forecast gold prices for next 30 days.
 
-- Below is the link of wesbite where we build dataset based on data on this site using web scraping .
+- Below is the link of website where we build dataset based on data on this site using web scraping .
 
 - Link where we scrap the data from the website - https://www.goldpriceindia.com/gold-price-january-2011.php
 
